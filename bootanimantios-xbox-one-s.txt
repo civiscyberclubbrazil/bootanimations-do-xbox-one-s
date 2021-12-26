@@ -1,0 +1,7 @@
+
+Code
+1- Faça o Download do documento em dat no link abaixo:
+https://drive.google.com/drive/folders/1KGytuXgx3Q5rHMbCngXnZFEGYW_2FSRz?usp=sharing
+2-coloca o hd do xbox no pc /usb reconhecendo as 5 unidades no hd acessa a unidade system update
+3- cole o arquivo bootanimations.dat nas pasta A e B
+4- Se tiver , substitua-as .
